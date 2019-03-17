@@ -1,0 +1,71 @@
+id,name,lat,long,docks,city
+1.0,         #San Jose Diridon Caltrain Station#         ,37.329732,-121.901782,27.0,San Jose
+2.0,         #San Jose Civic Center#         ,37.330698,-121.888979,15.0,San Jose
+3.0,         #Santa Clara at Almaden#         ,37.333988,-121.894902,11.0,San Jose
+4.0,         #Adobe on Almaden#         ,37.331415,-121.8932,19.0,San Jose
+5.0,         #San Pedro Square#         ,37.336721,-121.894074,15.0,San Jose
+6.0,         #Paseo de San Antonio#         ,37.333798,-121.886943,15.0,San Jose
+7.0,         #San Salvador at 1st#         ,37.330165,-121.885831,15.0,San Jose
+8.0,         #Japantown#         ,37.348742,-121.894715,15.0,San Jose
+9.0,         #San Jose City Hall#         ,37.337391,-121.886995,15.0,San Jose
+10.0,         #MLK Library#         ,37.335885,-121.88566000000002,19.0,San Jose
+11.0,         #SJSU 4th at San Carlos#         ,37.332808,-121.883891,19.0,San Jose
+12.0,         #St James Park#         ,37.339301,-121.88993700000002,15.0,San Jose
+13.0,         #Arena Green / SAP Center#         ,37.332692,-121.900084,19.0,San Jose
+14.0,         #SJSU - San Salvador at 9th#         ,37.333955,-121.877349,15.0,San Jose
+15.0,         #Franklin at Maple#         ,37.481758,-122.226904,15.0,Redwood City
+16.0,         #Redwood City Caltrain Station#         ,37.486078000000006,-122.232089,25.0,Redwood City
+17.0,         #San Mateo County Center#         ,37.487616,-122.229951,15.0,Redwood City
+18.0,         #Redwood City Public Library#         ,37.484219,-122.227424,15.0,Redwood City
+19.0,         #Stanford in Redwood City#         ,37.48537,-122.203288,15.0,Redwood City
+20.0,         #Redwood City Medical Center#         ,37.487682,-122.223492,15.0,Redwood City
+21.0,         #Mountain View City Hall#         ,37.389218,-122.081896,15.0,Mountain View
+22.0,         #Mountain View Caltrain Station#         ,37.394358,-122.07671299999998,23.0,Mountain View
+23.0,         #San Antonio Caltrain Station#         ,,,23.0,Mountain View
+24.0,         #Evelyn Park and Ride#         ,37.39027700000001,-122.066553,15.0,Mountain View
+25.0,         #San Antonio Shopping Center#         ,37.400443,-122.108338,15.0,Mountain View
+26.0,         #Castro Street and El Camino Real#         ,37.385956,-122.083678,11.0,Mountain View
+27.0,         #Rengstorff Avenue / California Street#         ,37.400241,-122.099076,15.0,Mountain View
+28.0,         #Palo Alto Caltrain Station#         ,37.443988,-122.164759,,Palo Alto
+29.0,         #University and Emerson#         ,37.444521,-122.163093,11.0,Palo Alto
+30.0,         #California Ave Caltrain Station#         ,37.429082,-122.142805,15.0,Palo Alto
+31.0,         #Cowper at University#         ,37.448598,-122.159504,11.0,Palo Alto
+32.0,         #Park at Olive#         ,37.4256839,-122.13777749999998,15.0,Palo Alto
+33.0,         #Clay at Battery#         ,37.795001,-122.39997,15.0,San Francisco
+34.0,         #Davis at Jackson#         ,37.79728,-122.398436,15.0,San Francisco
+35.0,         #Commercial at Montgomery#         ,37.794231,-122.402923,15.0,San Francisco
+36.0,         #Washington at Kearney#         ,37.795425,-122.404767,15.0,San Francisco
+37.0,         #Post at Kearney#         ,37.788975,-122.403452,19.0,San Francisco
+38.0,         #Embarcadero at Vallejo#         ,37.799953,-122.398525,15.0,San Francisco
+39.0,         #Spear at Folsom#         ,37.790302,-122.390637,19.0,San Francisco
+40.0,         #Harry Bridges Plaza (Ferry Building)#         ,37.795392,-122.394203,23.0,San Francisco
+41.0,         #Embarcadero at Folsom#         ,37.79146400000001,-122.391034,19.0,San Francisco
+42.0,         #Powell Street BART#         ,37.78387100000001,-122.408433,19.0,San Francisco
+43.0,         #Embarcadero at Bryant#         ,37.787152,-122.388013,15.0,San Francisco
+44.0,         #Temporary Transbay Terminal (Howard at Beale)#         ,37.789756,-122.394643,23.0,San Francisco
+45.0,         #Beale at Market#         ,37.792251,-122.39708600000002,19.0,San Francisco
+46.0,         #5th at Howard#         ,37.781752,-122.405127,15.0,San Francisco
+47.0,         #San Francisco City Hall#         ,37.77865,-122.418235,19.0,San Francisco
+48.0,         #Golden Gate at Polk#         ,37.781332,-122.418603,23.0,San Francisco
+49.0,         #Embarcadero at Sansome#         ,37.80477,-122.403234,15.0,San Francisco
+50.0,         #2nd at Townsend#         ,37.780526,-122.39028799999998,27.0,San Francisco
+51.0,         #2nd at Folsom#         ,37.785299,-122.39623600000002,19.0,San Francisco
+52.0,         #Howard at 2nd#         ,37.78697800000001,-122.398108,19.0,San Francisco
+53.0,         #2nd at South Park#         ,37.782259,-122.392738,15.0,San Francisco
+54.0,         #Townsend at 7th#         ,,,15.0,San Francisco
+55.0,         #South Van Ness at Market#         ,37.774814,-122.418954,19.0,San Francisco
+56.0,         #Market at 10th#         ,37.776619,-122.417385,27.0,San Francisco
+57.0,         #Yerba Buena Center of the Arts (3rd @ Howard)#         ,37.784878000000006,-122.401014,19.0,San Francisco
+58.0,         #San Francisco Caltrain 2 (330 Townsend)#         ,37.7766,-122.39547,23.0,San Francisco
+59.0,         #San Francisco Caltrain (Townsend at 4th)#         ,37.776617,-122.39526,19.0,San Francisco
+60.0,         #Powell at Post (Union Square)#         ,37.788446,-122.408499,19.0,San Francisco
+61.0,         #Civic Center BART (7th at Market)#         ,37.781039,-122.411748,23.0,San Francisco
+62.0,         #Grant Avenue at Columbus Avenue#         ,37.798522,-122.407245,15.0,San Francisco
+63.0,         #Steuart at Market#         ,37.794139,-122.394434,23.0,San Francisco
+64.0,         #Mechanics Plaza (Market at Battery)#         ,37.7913,-122.399051,19.0,San Francisco
+65.0,         #Market at 4th#         ,37.786305,-122.404966,,San Francisco
+66.0,         #Market at Sansome#         ,37.789625,-122.400811,27.0,San Francisco
+67.0,         #Santa Clara County Civic Center#         ,37.352601,-121.905733,15.0,San Jose
+68.0,         #Broadway St at Battery St#         ,37.798541,-122.40086200000002,15.0,San Francisco
+69.0,         #Mezes Park#         ,37.491269,-122.236234,15.0,Redwood City
+70.0,         #Ryland Park#         ,37.342725,-121.895617,15.0,San Jose
